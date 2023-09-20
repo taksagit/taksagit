@@ -1,8 +1,8 @@
 ### taksa
 # Hi there 👋
-- 🔭 I’m currently working on [hackathon](https://cups.online/ru/contests/hackathon_ai_arrow)
+- 🔭 I’m currently working on [ECG]()
 - 🌱 I’m currently learning ML and DL
-- 🤔 I’m looking for help with yolo and [hackathon](https://cups.online/ru/contests/hackathon_ai_arrow)
+- 🤔 I’m looking for help with ECG and [ECG-signals]()
 
 
 # My Stack of Technlologies
