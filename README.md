@@ -1,8 +1,8 @@
 ### taksa
 # Hi there 👋
-- 🔭 I’m currently working on [ECG]()
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ML and DL
-- 🤔 I’m looking for help with ECG and [ECG-signals]()
+- 🤔 I’m looking for help with OCR Models 
 
 
 # My Stack of Technlologies
